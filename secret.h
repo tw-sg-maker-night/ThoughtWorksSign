@@ -1,5 +1,5 @@
-const char* ssid     = "twguest";
-const char* password = "heroic crab mammal dual swig";
+const char* ssid     = "";
+const char* password = "";
 
 //const char* mqttClientId  = "mqttClient";
 //const char* mqttUsername = "mqttUser";
